@@ -1,0 +1,79 @@
+#nav{
+    background-color: #202649;
+    padding: 16px 30px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0.38);
+}
+#name{
+    font-size: 30px;
+    font-weight: bold;
+}
+#subscribe{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 11px 32px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 12px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.rounded{
+    border-radius: 361px ;
+}
+#profile{
+    box-sizing: content-box;
+    position: relative;
+    top: 150px;
+    right: -60px;
+    border: 37px solid rgba(11, 34, 167, 0.1);
+}
+#banner{
+    box-sizing: content-box;
+    border: 10px solid #ffffff; 
+    position: absolute;
+    top: 90px;
+    left: 320px;
+    
+}
+#rectangle1{
+    width: 1196px;
+    height: 475px;
+    top: 160px;
+    left: 42px;
+    background-color: #202649;
+    position: absolute;  
+}
+#rectangle2{
+    width: 537px;
+    height: 588px;
+    top: 116px;
+    left: 372px;
+    background-color: #202649;
+    position: absolute;
+    border: 10px solid #ffffff;
+}
+/*#rectangle3{
+    width: 1196px;
+    height: 475px;
+    top: 160px;
+    left: 42px;
+    background-color: #202649;
+    position: absolute;
+    background-color:  #202649;
+}*/
+.text{
+    font-size: 54px;
+    font-weight: bold;
+    padding: 30px, 150px;
+
+}
