@@ -28,14 +28,20 @@ a{
     align-items: center;
 }
 .rect{
-    display:flex;
-    flex-direction: row;
-    position: absolute;
+    display: flex;
+    font-size: 24px; 
+   justify-content: space-evenly;
 }
 #title1{
     position:absolute;
     width: 379px;
     height: 55px;
+    background-color: #202649;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
     
    
   

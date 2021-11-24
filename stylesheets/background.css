@@ -74,6 +74,7 @@ a{
 .text{
     font-size: 54px;
     font-weight: bold;
-    padding: 30px, 150px;
+    display: flex;
+    align-items: center;
     
 }
